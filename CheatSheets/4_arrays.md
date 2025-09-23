@@ -1,7 +1,3 @@
-Here's a C# array cheat sheet that covers basic operations, syntax, and common methods:
-
----
-
 ## **C# Array Cheat Sheet**
 
 ### **1. Declaring and Initializing Arrays**

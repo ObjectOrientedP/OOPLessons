@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{762911BC-03C8-4B67-A49F-763EA735A743}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsTutorial", "Week1\StringsTutorial\StringsTutorial.csproj", "{DF48BCF6-0FE3-4BB5-9FE3-BB08071F17EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF48BCF6-0FE3-4BB5-9FE3-BB08071F17EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF48BCF6-0FE3-4BB5-9FE3-BB08071F17EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF48BCF6-0FE3-4BB5-9FE3-BB08071F17EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF48BCF6-0FE3-4BB5-9FE3-BB08071F17EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF48BCF6-0FE3-4BB5-9FE3-BB08071F17EB} = {762911BC-03C8-4B67-A49F-763EA735A743}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5253C69-8C28-43AF-BF69-F329282C1A72}
+	EndGlobalSection
+EndGlobal
